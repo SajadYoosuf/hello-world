@@ -1,2 +1,2 @@
 # hello-world
-this repository for studing about git and github
+this is my first repository study about deeply on git and github for mastering 
